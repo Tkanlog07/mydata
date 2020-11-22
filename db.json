@@ -1,0 +1,35 @@
+
+{
+  "posts":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ],
+  "Baobao" : [
+    {
+      "id": 0,
+      "content": "Nguyễn Thái!",
+      "username": "baobao",
+      "Ppassword" : "123"
+    },
+    {
+      "id": 1,
+      "content": "Nguyễn Thái!",
+      "username": "zero_cool"
+    },
+    {
+      "id": 2, 
+      "content": "Nguyễn Thái!",
+      "username": "zero_cool"
+    }
+  ]
+}
